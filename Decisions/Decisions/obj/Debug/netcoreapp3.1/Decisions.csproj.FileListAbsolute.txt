@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.exe
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.deps.json
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.json
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.runtimeconfig.dev.json
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\backt\source\repos\Decisions\Decisions\bin\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.AssemblyInfo.cs
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.dll
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.pdb
+C:\Users\backt\source\repos\Decisions\Decisions\obj\Debug\netcoreapp3.1\Decisions.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.exe
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.deps.json
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.runtimeconfig.json
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.runtimeconfig.dev.json
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.dll
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\bin\Debug\netcoreapp3.1\ShopHRM.pdb
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.AssemblyInfo.cs
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.dll
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.pdb
+C:\Users\backt\source\repos\ShopHRM_Solution\ShopHRM\obj\Debug\netcoreapp3.1\ShopHRM.genruntimeconfig.cache

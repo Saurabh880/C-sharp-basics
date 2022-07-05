@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.exe
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.deps.json
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.json
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.runtimeconfig.dev.json
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.dll
+C:\Users\backt\source\repos\ForIteration\ForIteration\bin\Debug\netcoreapp3.1\ForIteration.pdb
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.AssemblyInfo.cs
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.dll
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.pdb
+C:\Users\backt\source\repos\ForIteration\ForIteration\obj\Debug\netcoreapp3.1\ForIteration.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.exe
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.deps.json
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.runtimeconfig.json
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.runtimeconfig.dev.json
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.dll
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\bin\Debug\netcoreapp3.1\ArrayUnderstanding.pdb
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.AssemblyInfo.cs
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.dll
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.pdb
+C:\Users\backt\source\repos\ArrayUnderstanding\ArrayUnderstanding\obj\Debug\netcoreapp3.1\ArrayUnderstanding.genruntimeconfig.cache
