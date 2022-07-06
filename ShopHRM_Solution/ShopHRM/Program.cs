@@ -7,6 +7,7 @@ namespace ShopHRM
         static void Main(string[] args)
         {
             int userInput;
+            // do while loop will run one time at least as condition is checked after the body is executed.
             do
             {
                 Console.WriteLine("Choose the action you want to select");
