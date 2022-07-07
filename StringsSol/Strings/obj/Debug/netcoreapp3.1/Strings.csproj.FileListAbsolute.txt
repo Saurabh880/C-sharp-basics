@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\backt\source\repos\StringsSol\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\backt\source\repos\StringsSol\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
