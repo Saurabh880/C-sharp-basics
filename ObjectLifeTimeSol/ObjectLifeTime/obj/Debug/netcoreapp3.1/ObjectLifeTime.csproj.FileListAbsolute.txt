@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.exe
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.deps.json
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.runtimeconfig.json
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.runtimeconfig.dev.json
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.dll
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\bin\Debug\netcoreapp3.1\ObjectLifeTime.pdb
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.AssemblyInfo.cs
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.dll
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.pdb
+C:\Users\backt\source\repos\ObjectLifeTimeSol\ObjectLifeTime\obj\Debug\netcoreapp3.1\ObjectLifeTime.genruntimeconfig.cache
