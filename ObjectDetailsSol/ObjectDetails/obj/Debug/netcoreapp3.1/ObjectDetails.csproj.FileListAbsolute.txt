@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.exe
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.deps.json
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.runtimeconfig.json
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.runtimeconfig.dev.json
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.dll
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\bin\Debug\netcoreapp3.1\ObjectDetails.pdb
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.AssemblyInfo.cs
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.dll
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.pdb
+C:\Users\backt\source\repos\ObjectDetailsSol\ObjectDetails\obj\Debug\netcoreapp3.1\ObjectDetails.genruntimeconfig.cache
