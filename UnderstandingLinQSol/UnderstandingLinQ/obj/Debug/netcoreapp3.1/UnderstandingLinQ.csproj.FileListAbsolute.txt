@@ -1,0 +1,14 @@
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.exe
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.deps.json
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.runtimeconfig.json
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.runtimeconfig.dev.json
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.dll
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\bin\Debug\netcoreapp3.1\UnderstandingLinQ.pdb
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.csproj.AssemblyReference.cache
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.AssemblyInfoInputs.cache
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.AssemblyInfo.cs
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.csproj.CoreCompileInputs.cache
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.dll
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.pdb
+C:\Users\backt\source\repos\UnderstandingLinQSol\UnderstandingLinQ\obj\Debug\netcoreapp3.1\UnderstandingLinQ.genruntimeconfig.cache
