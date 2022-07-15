@@ -8,7 +8,8 @@ namespace Question
         static void Main(string[] args)
         {
             int[] nums = new int[] { 1, 1, 2, 2, 2, 3 };
-            FrequencySort(nums);
+            string s = "anagram", t = "nagaram";
+            IsAnagram(s, t);
 
             //int[] nums = new int[]{ 0, 2, 1, 5, 3, 4 };
             //BuildArray(nums);
@@ -64,7 +65,7 @@ namespace Question
             Console.WriteLine(sum);
             return sum;
         }
-        
+
         //leet code 1184
         public static int DistanceBetweenBusStops(int[] distance, int start, int destination)
         {
@@ -90,7 +91,7 @@ namespace Question
                 }
             }
 
-            if (shortd<longd)
+            if (shortd < longd)
             {
                 Console.WriteLine("shortd is smaller :" + shortd);
             }
@@ -98,8 +99,8 @@ namespace Question
             {
                 Console.WriteLine("longd is smaller :" + longd);
             }
-            int output = Math.Min(shortd,longd)==0?1: Math.Min(shortd, longd);
-            Console.WriteLine("Output is : "+output);
+            int output = Math.Min(shortd, longd) == 0 ? 1 : Math.Min(shortd, longd);
+            Console.WriteLine("Output is : " + output);
             return output;
         }
 
@@ -127,28 +128,31 @@ namespace Question
         {
             int[] output = new int[nums.Length];
 
-            for (int i= 0; i < nums.Length; i++)
+            for (int i = 0; i < nums.Length; i++)
             {
                 output[i] = nums[nums[i]];
             }
             return output;
         }
 
-        public static int[] FrequencySort(int[] nums)
+        public static bool IsAnagram(string s, string t)
         {
-            int[] arr = new int[nums.Length];
-            int[] freq = new int[nums.Length];
-            for (int i = 0; i < nums.Length; i++)
-            {
-                freq[nums[i]]++;
-            }
+            int[] cal = new int[s.Length] ;
+                for (int j = 0; j < s.Length-1; j++)
+                {
+                    if (s[0] == s[j])
+                    {
+                        cal[s[j]]++;
+                    }
+                
 
-            for (int i = 0; i < nums.Length; i++)
-            {
-                Console.WriteLine(freq[i]);
             }
+                foreach(char ch in cal)
+            {
+                Console.WriteLine(ch);
+            }
+            return false;
 
-            return arr;
         }
     }
 }
