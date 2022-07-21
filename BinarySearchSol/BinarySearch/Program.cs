@@ -12,7 +12,7 @@ namespace BinarySearch
             //Binary search completed
             int start = 0;
             int end = arr.Length - 1;
-            // use below mid 
+            // use below mid as this will give you correct value and ignoren2^31 -1 out of bound error
             int mid = start + (end - start) / 2;
             int ans = -1;
             while (start < end)
