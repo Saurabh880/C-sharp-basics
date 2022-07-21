@@ -9,9 +9,10 @@ namespace BinarySearch
             int[] arr = new int[] { 1, 2, 3, 3, 5 };
             int size = arr.Length;
             int target = 3;
-            //Binary search
+            //Binary search completed
             int start = 0;
             int end = arr.Length - 1;
+            // use below mid 
             int mid = start + (end - start) / 2;
             int ans = -1;
             while (start < end)
